@@ -1,3 +1,3 @@
 # Aula_tkinter
 
-aulas osbre o pacote tkinter
+aulas sobre o pacote tkinter
